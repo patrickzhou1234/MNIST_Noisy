@@ -39,7 +39,7 @@ Improved Noisy MNIST With QNNs  </h1>
     How to Use
   </h2>
   <p style="font-size: 1.1em; color: #7f8c8d;">
-    To get started with this project, download the file and then upload to google colab and run it. You will also need the n-MNIST dataset which can be found at [https://csc.lsu.edu/~saikat/n-mnist/]. 
+    To get started with this project, download the file and then upload to google colab and run it. You will also need the n-MNIST dataset which can be found at <a href="https://csc.lsu.edu/~saikat/n-mnist/">n-MNIST</a>. 
   </p>
   To make the process of running it faster, please use GPU on colab. 
 </div>
